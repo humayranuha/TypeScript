@@ -1,1 +1,2 @@
-import "./helloWorld.js";
+// import "./helloWorld.js";
+import "./simpleTypes.js";
